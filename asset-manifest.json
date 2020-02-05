@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fbw9todo/static/css/main.cdac3187.chunk.css",
+    "main.js": "/fbw9todo/static/js/main.8299d062.chunk.js",
+    "main.js.map": "/fbw9todo/static/js/main.8299d062.chunk.js.map",
+    "runtime-main.js": "/fbw9todo/static/js/runtime-main.5d220b74.js",
+    "runtime-main.js.map": "/fbw9todo/static/js/runtime-main.5d220b74.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/fbw9todo/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.0bf3e7bc.chunk.js": "/fbw9todo/static/js/2.0bf3e7bc.chunk.js",
+    "static/js/2.0bf3e7bc.chunk.js.map": "/fbw9todo/static/js/2.0bf3e7bc.chunk.js.map",
+    "index.html": "/fbw9todo/index.html",
+    "precache-manifest.e1448b518658f87d0d2bb79a658ecb5d.js": "/fbw9todo/precache-manifest.e1448b518658f87d0d2bb79a658ecb5d.js",
+    "service-worker.js": "/fbw9todo/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/fbw9todo/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.cdac3187.chunk.css.map": "/fbw9todo/static/css/main.cdac3187.chunk.css.map",
+    "static/js/2.0bf3e7bc.chunk.js.LICENSE": "/fbw9todo/static/js/2.0bf3e7bc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d220b74.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.0bf3e7bc.chunk.js",
+    "static/css/main.cdac3187.chunk.css",
+    "static/js/main.8299d062.chunk.js"
+  ]
+}
